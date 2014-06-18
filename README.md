@@ -1,7 +1,7 @@
-thesis
+thesis: Computational Intelligence and Game Competition
 ======
 
-Computational Intelligence and Game Competition
+
 
 ¿How to improve Artificial Intelligence learning using international Game Competitions?
 
