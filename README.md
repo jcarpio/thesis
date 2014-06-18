@@ -1,8 +1,12 @@
-thesis: Computational Intelligence and Game Competition
+Thesis: Computational Intelligence and Game Competition
 ======
 
 
+It is possible to improve learning experience in Artificial Intelligence area by mean of game competitions?
 
-¿How to improve Artificial Intelligence learning using international Game Competitions?
+It is possible to quantify how the learning experience improve?
 
-¿Can Artificial Intelligence Game Competition helps to students to have better learning experience?
+It is possible to know how many resources are needed to participate?
+
+Which techniques are suitable to teach in this context?
+
