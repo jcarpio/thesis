@@ -1,4 +1,4 @@
-Thesis: Computational Intelligence and Game Competition
+Thesis: Computational Intelligence and Game Competitions
 ======
 
 
