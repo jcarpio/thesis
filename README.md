@@ -10,3 +10,7 @@ It is possible to know how many resources are needed to participate?
 
 Which techniques are suitable to teach in this context?
 
+Which methodology is suitable to achieve the objectives?
+
+
+
