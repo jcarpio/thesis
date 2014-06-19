@@ -1,6 +1,7 @@
 Thesis: Computational Intelligence and Game Competitions
 ======
 
+Research questions?
 
 It is possible to improve learning experience in Artificial and Computational Intelligence area by mean of game competitions?
 
