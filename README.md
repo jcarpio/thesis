@@ -1,4 +1,4 @@
-Thesis: Computational Intelligence and Game Competitions
+Thesis: Computational Intelligence and Game Competitions for students
 ======
 
 <h3>Research questions</h3>
