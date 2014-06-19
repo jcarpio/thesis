@@ -20,3 +20,8 @@ Student Games-Based Competition
 http://cis.ieee.org/student-games-based-competition.html
 
 
+Artificial and Computational intelligence game competitions
+
+AI Challenge http://aichallenge.org/
+Hello World Open https://helloworldopen.com/
+
