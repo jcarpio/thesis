@@ -14,4 +14,9 @@ Which techniques are suitable to teach in a certain context?
 Which methodology is suitable to achieve the objectives?
 
 
+Related links:
+
+Student Games-Based Competition
+http://cis.ieee.org/student-games-based-competition.html
+
 
