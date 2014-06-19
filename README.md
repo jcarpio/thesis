@@ -1,7 +1,7 @@
 Thesis: Computational Intelligence and Game Competitions
 ======
 
-Research questions:
+<h3>Research questions</h3>
 
 It is possible to improve learning experience in Artificial and Computational Intelligence area by mean of game competitions?
 
@@ -14,14 +14,14 @@ Which techniques are suitable to teach in a certain context?
 Which methodology is suitable to achieve the objectives?
 
 
-Related links:
+<h3>Related links</h3>
 
 Student Games-Based Competition
 http://cis.ieee.org/student-games-based-competition.html
 
 
-Artificial and Computational intelligence game competitions
+<h3>Artificial and Computational intelligence game competitions</h3>
 
-AI Challenge http://aichallenge.org/
-Hello World Open https://helloworldopen.com/
+<b>AI Challenge</b> http://aichallenge.org/
+<b>Hello World Open</b> https://helloworldopen.com/
 
