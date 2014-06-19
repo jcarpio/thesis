@@ -18,7 +18,9 @@ Thesis: Computational Intelligence and Game Competitions
 <h3>Related links</h3>
 
 <b>Student Games-Based Competition</b>
-http://cis.ieee.org/student-games-based-competition.html
+http://cis.ieee.org/student-games-based-competition.html<br>
+<b>Competitions and prizes in artificial intelligence</b>
+http://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence#Games
 
 
 <h3>Artificial and Computational intelligence game competitions</h3>
